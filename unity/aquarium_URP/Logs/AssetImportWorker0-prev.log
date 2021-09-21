@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'zh' Physical Memory: 16227 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/USER/UnityProjects/aquarium_URP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64999
+Successfully changed project path to: C:/Users/USER/UnityProjects/aquarium_URP
+C:/Users/USER/UnityProjects/aquarium_URP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/USER/UnityProjects/aquarium_URP/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   26.21.14.4187
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001787 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.605 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1605ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (348ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (127ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (138ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Domain Reload Profiling:
+	ReloadAssembly (959ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (780ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (286ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (43ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2711 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 3134.
+Total: 2.355200 ms (FindLiveObjects: 0.194300 ms CreateObjectMapping: 0.102800 ms MarkObjects: 1.804600 ms  DeleteObjects: 0.252900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/aquarium_model
+  artifactKey: Guid(abe6721602954ed4d823667bab96d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model using Guid(abe6721602954ed4d823667bab96d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903a8db772d051c79cb96f9b50c2d2d9') in 0.007135 seconds 
+  Import took 0.010271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.246485 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Main.jpg
+  artifactKey: Guid(a10b9f090bf72ce449c85781f2480aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Main.jpg using Guid(a10b9f090bf72ce449c85781f2480aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a060a90f3e501d37a4c25e0c52736f8a') in 0.085447 seconds 
+  Import took 0.088927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Plant1.jpg
+  artifactKey: Guid(b92677cf9e7702343b8bbf3c07b315e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Plant1.jpg using Guid(b92677cf9e7702343b8bbf3c07b315e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda9aa4defd13b47e7a9ae2839dfa12c') in 0.009580 seconds 
+  Import took 0.013053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Plant2.jpg
+  artifactKey: Guid(24c4e1e27b57f594d87591f5cdb7be98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_Plant2.jpg using Guid(24c4e1e27b57f594d87591f5cdb7be98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44472228e3e20c170773eb4c924bd92') in 0.009283 seconds 
+  Import took 0.012339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_v1_l2.obj
+  artifactKey: Guid(cea85dbeb183fe8448124d733043b25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_Aquarium_v1_l2.obj using Guid(cea85dbeb183fe8448124d733043b25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10e3f15c87e82359ff3fe092dd57999') in 0.659899 seconds 
+  Import took 0.663342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_aquarium_Props2_diff.jpg
+  artifactKey: Guid(24f2770d9c058764eb8a981bf1f58789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_aquarium_Props2_diff.jpg using Guid(24f2770d9c058764eb8a981bf1f58789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0443eab2ec567fa35a54ed189f5f6f') in 0.010710 seconds 
+  Import took 0.014224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Materials/aquarium_model/12986_Freshwater_aquarium_Props1_diff.jpg
+  artifactKey: Guid(a2ef5abbaef0cc04e92334b353ac8ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/aquarium_model/12986_Freshwater_aquarium_Props1_diff.jpg using Guid(a2ef5abbaef0cc04e92334b353ac8ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08aff4cdc79aefb89ae17e8e3e9cbd8') in 0.010054 seconds 
+  Import took 0.013843 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
